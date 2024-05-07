@@ -6,6 +6,7 @@ int main() {
     cin >> n >> m;  
     cout << "Sum : " << (n+m) <<endl;   
     cout << "Subtraction : " << (n-m) <<endl;
-    cout << "Thank you!" << endl;
+    cout << "Thank you! ";
+    cout << "Have a nice day!" << endl;
     return 0;
 }
